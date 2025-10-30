@@ -341,10 +341,17 @@ Nas imagens acima, observa-se que, logo após a execução do malware, ele passo
 🛡️ Mitigações rápidas
 
 🔐 Ativar autenticação multifator (MFA)
+
 🧩 Utilizar soluções EDR ou antivírus atualizados
+
 👤 Aplicar o princípio do menor privilégio
+
 🎯 Realizar treinamentos de conscientização sobre phishing (evitar clicar em links ou anexos suspeitos)
+
 🕵️‍♂️ Manter monitoramento contínuo de logs e processos suspeitos
+
+---
+
 
 ## Autor / Contato
 
