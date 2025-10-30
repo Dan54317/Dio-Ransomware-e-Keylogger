@@ -269,8 +269,8 @@ logging.basicConfig(
 log = ""`
 
 # Configurações do email
-`EMAIL_origem = "ranson112224@gmail.com"
-EMAIL_destino = "ranson112224@gmail.com"
+`EMAIL_origem = "test@gmail.com"
+EMAIL_destino = "test@gmail.com"
 SENHA = "XXX XXX XXX XXXX"`
 
 # Função para enviar o email com o log capturado
