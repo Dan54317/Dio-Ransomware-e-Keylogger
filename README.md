@@ -27,7 +27,7 @@ O script foi produzido e testado em ambiente seguro e controlado. O uso indevido
 
 # Ransomware
 
-
+## Incluir a bilblioteca
 
 `from cryptography.fernet import Fernet
 import os`
