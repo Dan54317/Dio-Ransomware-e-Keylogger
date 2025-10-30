@@ -1,4 +1,12 @@
-# Ransomware-e-Keylogger — Santander Bootcamp 2025
+# Ransomware-e-Keylogger — Santander Bootcamp 2025 
+---
+
+## ⚡ Criado por Dan54317
+**Autor / Contato:** [Dan54317](https://github.com/Dan54317)  
+📧 Email: [ddannsilvasp@gmail.com](mailto:seu.email@exemplo.com) · il) 
+
+---
+[![Criado por Dan54317](https://img.shields.io/badge/Cria%C3%A7%C3%A3o-Dan54317-blue?style=for-the-badge)](https://github.com/Dan54317)
 
 **Resumo do Projeto**
 Este trabalho foi elaborado para simulações educacionais sobre duas ameaças digitais --Ransomware e Keylogger-- desenvolvido em python e documentado de forma responsável. O projeto tem como finalidade entender como as ameaças operam, quais dados elas capturam ou criptografam. Como se proteger qual técnica de detecção e mitigação são eficaz para o mundo real.
@@ -193,11 +201,17 @@ Ransomware  funcionando podemos demonstrar como o malware funciona e sequestra o
     Para recuper�-los, envie 1 Bitcoin para o endere�o abaixo:
     [ENDERE�O DE BITCOIN]
     Ap�s o pagamento, envie um e-mail para [SEU EMAIL] com o comprovante.
-    Voc� receber� a chave de descriptografia em at� 24 horas.`
+    Voc� receber� a chave de descriptografia em at� 24 horas.`⁹
 
 
 
+## Autor / Contato
 
+**Dan54317** — Autor e responsável pelo repositório.  
+- GitHub: [github.com/Dan54317](https://github.com/Dan54317)  
+- Email: [seu.email@exemplo.com](mailto:seu.email@exemplo.com)  
+- LinkedIn: https://www.linkedin.com/in/seu-perfil  
+- WhatsApp: https://wa.me/55SEUNUMERO?text=Ol%C3%A1%2C%20vi%20seu%20reposit%C3%B3rio
 
 
 # teste 
