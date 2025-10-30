@@ -1,6 +1,5 @@
 # Ransomware-e-Keylogger — Santander Bootcamp 2025 
 ---
----
 
 ## ⚡ Criado por Dan54317
 **Autor / Contato:** [Dan54317](https://github.com/Dan54317)  
