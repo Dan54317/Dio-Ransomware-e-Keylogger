@@ -357,7 +357,7 @@ Nas imagens acima, observa-se que, logo após a execução do malware, ele passo
 
 
 
----
+
 
 ## 👨‍💻 Autor / Contato
 
