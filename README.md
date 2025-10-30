@@ -173,7 +173,7 @@ Na imagem abaixo após rodar nosso script podemos observar que a Criptografia fo
 
 <img width="1082" height="687" alt="image" src="https://github.com/user-attachments/assets/375061f9-90f8-4335-9682-9ef955153f01" />
 
-
+---
 
 
 Após a execução do script, observamos que todos os arquivos de texto no diretório-alvo foram criptografados, simulando de forma controlada o comportamento típico de um ransomware.
@@ -184,7 +184,7 @@ Após a execução do script, observamos que todos os arquivos de texto no diret
 <img width="1188" height="702" alt="image" src="https://github.com/user-attachments/assets/59df70cc-a6ca-4379-8a96-7dc43d4a7282" />
 
 
-
+---
 
 
 Ransomware  funcionando podemos demonstrar como o malware funciona e sequestra os dados mendagem de resgate na tela para decriptografia.
