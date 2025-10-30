@@ -19,8 +19,15 @@ O script foi produzido e testado em ambiente seguro e controlado. O uso indevido
   - Programar scripts simples em Python simulando ataques reais em ambiente controlado;
   - Refletir sobre estratégias de defesa e prevenção contra malwares;
   - Documentar seus experimentos e utilizar o GitHub como portfólio técnico.
+---
+# Desafio
+---
 
-    
+
+
+
+
+
 # teste 
 ## teste 
 ### teste 
