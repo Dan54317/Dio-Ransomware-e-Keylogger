@@ -3,7 +3,7 @@
 
 ## ⚡ Criado por Dan54317
 **Autor / Contato:** [Dan54317](https://github.com/Dan54317)  
-📧 Email: [ddannsilvasp@gmail.com](mailto:seu.email@exemplo.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/daniel--70335b218 ) 
+📧 Email: [ddannsilvasp@gmail.com](mailto:seu.email@exemplo.com) · 🔗 [linkedin.com/in/daniel--70335b218](https://www.linkedin.com/in/daniel--70335b218) 
 
 
 
