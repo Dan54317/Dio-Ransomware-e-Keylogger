@@ -204,13 +204,14 @@ Ransomware  funcionando podemos demonstrar como o malware funciona e sequestra o
     Voc� receber� a chave de descriptografia em at� 24 horas.`⁹
 
 
-
 ## Autor / Contato
 
 **Dan54317** — Autor e responsável pelo repositório.  
 - GitHub: [github.com/Dan54317](https://github.com/Dan54317)  
-- Email:  
+- Email: [seu.email@exemplo.com](mailto:seu.email@exemplo.com)  
+- LinkedIn: https://www.linkedin.com/in/daniel--70335b218
 - WhatsApp: https://wa.me/55SEUNUMERO?text=Ol%C3%A1%2C%20vi%20seu%20reposit%C3%B3rio
+
 
 
 # teste 
