@@ -334,6 +334,17 @@ Assim que o usuário recebe o malware sem saber do que se trata e for executado 
 Nas imagens acima, observa-se que, logo após a execução do malware, ele passou a capturar e registrar as teclas digitadas e a enviar os registros por e-mail.
 
 
+---
+
+# Mitigações
+
+🛡️ Mitigações rápidas
+
+🔐 Ativar autenticação multifator (MFA)
+🧩 Utilizar soluções EDR ou antivírus atualizados
+👤 Aplicar o princípio do menor privilégio
+🎯 Realizar treinamentos de conscientização sobre phishing (evitar clicar em links ou anexos suspeitos)
+🕵️‍♂️ Manter monitoramento contínuo de logs e processos suspeitos
 
 ## Autor / Contato
 
