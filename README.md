@@ -1,9 +1,12 @@
 # Ransomware-e-Keylogger — Santander Bootcamp 2025 
 ---
+---
 
 ## ⚡ Criado por Dan54317
 **Autor / Contato:** [Dan54317](https://github.com/Dan54317)  
-📧 Email: [ddannsilvasp@gmail.com](mailto:seu.email@exemplo.com) 
+📧 Email: [seu.email@exemplo.com](mailto:seu.email@exemplo.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/daniel--70335b218 ) · 💬 [WhatsApp](https://wa.me/55SEUNUMERO?text=Ol%C3%A1%2C%20vi%20seu%20projeto%20Dio-Ransomware-e-Keylogger)
+
+
 
 ---
 [![Criado por Dan54317](https://img.shields.io/badge/Cria%C3%A7%C3%A3o-Dan54317-blue?style=for-the-badge)](https://github.com/Dan54317)
