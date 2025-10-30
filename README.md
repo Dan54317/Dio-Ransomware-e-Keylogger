@@ -160,6 +160,26 @@ import os`
 <img width="655" height="533" alt="image" src="https://github.com/user-attachments/assets/2c75325c-33db-4a6e-bca1-85634df995b7" />
 
 
+# executando teste.
+
+
+
+Na imagem abaixo após rodar nosso script podemos observar que a Criptografia foi realizada com sucesso trazendo a mensagem CRIPTOGRAFIA CONCLUIDA !
+
+
+
+<img width="1082" height="687" alt="image" src="https://github.com/user-attachments/assets/375061f9-90f8-4335-9682-9ef955153f01" />
+
+
+
+
+Após a execução do script, observamos que todos os arquivos de texto no diretório-alvo foram criptografados, simulando de forma controlada o comportamento típico de um ransomware.
+
+
+
+
+<img width="1188" height="702" alt="image" src="https://github.com/user-attachments/assets/59df70cc-a6ca-4379-8a96-7dc43d4a7282" />
+
 
 
 
