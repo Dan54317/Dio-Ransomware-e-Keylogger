@@ -234,6 +234,11 @@ Foco em prevenção + detecção + resposta = defesa completa! 🔒
 
 # Kelylogger
 
+Keylogger é um tipo de software malicioso que captura tudo o que o usuário digita no teclado, como senhas, mensagens e dados pessoais. Ele é usado por criminosos para roubar informações confidenciais, geralmente de forma invisível e silenciosa.
+
+
+
+---
 ## Autor / Contato
 
 **Dan54317** — Autor e responsável pelo repositório.  
