@@ -22,7 +22,10 @@ O script foi produzido e testado em ambiente seguro e controlado. O uso indevido
 ---
 # Desafio 
 
-**Ransomware , implementar um script que criptografa e descriptografa, além de gerar mensagem de “resgate”.**
+> simulação de ransomware aqui apresentada tem propósito pedagógico: entendimento, detecção e mitigação. Qualquer reprodução de técnicas em sistemas sem autorização constitui crime. Este repositório não fornece ferramentas para ataque.
+
+
+# Ransomware
 
 
 
