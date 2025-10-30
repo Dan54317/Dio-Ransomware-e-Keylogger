@@ -350,20 +350,37 @@ Nas imagens acima, observa-se que, logo após a execução do malware, ele passo
 
 🕵️‍♂️ Manter monitoramento contínuo de logs e processos suspeitos
 
+
+
+
 ---
 
 
-## Autor / Contato
+
+---
+
+## 👨‍💻 Autor / Contato
 
 **Dan54317** — Autor e responsável pelo repositório.  
-- GitHub: [github.com/Dan54317](https://github.com/Dan54317)  
-- Email: [ddannsilvasp@gmail.com](mailto:seu.email@exemplo.com)  
-- LinkedIn: https://www.linkedin.com/in/daniel--70335b218
-  
+📂 GitHub: [github.com/Dan54317](https://github.com/Dan54317)  
+✉️ Email: [ddannsilvasp@gmail.com](mailto:ddannsilvasp@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/daniel--70335b218](https://www.linkedin.com/in/daniel--70335b218)
+
+---
+
+## 📚 Referência
+
+📖 **NIST – National Institute of Standards and Technology.**  
+*Guide for Cybersecurity Event Recovery (NIST Special Publication 800-184).*  
+U.S. Department of Commerce, 2016.  
+🔗 [Acessar documento oficial (PDF)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-184.pdf)  
+🕓 Acesso em: 30 out. 2025.
+
+---
+
+> 💡 **Nota:** Este projeto foi desenvolvido para fins educacionais e demonstração em ambiente controlado.  
+> Todos os testes foram realizados com responsabilidade ética e sem causar danos a terceiros.
 
 
 
-# teste 
-## teste 
-### teste 
 
