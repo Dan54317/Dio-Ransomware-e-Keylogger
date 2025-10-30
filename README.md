@@ -210,6 +210,21 @@ Ransomware em execução dados criptografados e a mensagem de Resgate com os pas
 
 ---
 
+## Mitigação 
+
+🛡️ Proteção de E-mail > Use filtros avançados contra phishing e anexos maliciosos
+  
+📧 Macros no Office > Desabilite macros em documentos do Word/Excel por padrão (/n)
+
+🔍 Sandbox para Análise > Execute arquivos suspeitos em ambientes isolados primeiro (/n) 
+🚫 Princípio do Menor Privilégio > Aplicativos e serviços rodam com permissões mínimas necessárias. (/n)
+⚡ Resposta a Incidentes > Tenha um plano de ação pronto para caso de infecção. (/n)
+🧹 Hábitos de Limpeza > Delete arquivos temporários e faça manutenção regular. (/n)
+📋 Inventário de Ativos > Mantenha lista atualizada de todos os dispositivos e softwares. (/n)
+🛡️ EDR/XDR > Use soluções de detecção e resposta em endpoints (além do antivírus). (/n)
+Foco em prevenção + detecção + resposta = defesa completa! 🔒
+
+
 ## Autor / Contato
 
 **Dan54317** — Autor e responsável pelo repositório.  
