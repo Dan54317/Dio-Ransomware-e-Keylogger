@@ -184,6 +184,19 @@ Após a execução do script, observamos que todos os arquivos de texto no diret
 
 
 
+Ransomware  funcionando podemos demonstrar como o malware funciona e sequestra os dados mendagem de resgate na tela para decriptografia.
+
+    `Seus arquivos foram criptografados!
+    Para recuper�-los, envie 1 Bitcoin para o endere�o abaixo:
+    [ENDERE�O DE BITCOIN]
+    Ap�s o pagamento, envie um e-mail para [SEU EMAIL] com o comprovante.
+    Voc� receber� a chave de descriptografia em at� 24 horas.`
+
+
+
+
+
+
 # teste 
 ## teste 
 ### teste 
