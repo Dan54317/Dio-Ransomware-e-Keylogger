@@ -14,7 +14,7 @@
 
 
 
-Este trabalho foi elaborado para simulações educacionais sobre duas ameaças digitais --Ransomware e Keylogger-- desenvolvido em python e documentado de forma responsável. O projeto tem como finalidade entender como as ameaças operam, quais dados elas capturam ou criptografam. Como se proteger qual técnica de detecção e mitigação são eficaz para o mundo real.
+Este projeto foi elaborado para simulações educacionais sobre duas ameaças digitais --Ransomware e Keylogger-- desenvolvido em python e documentado de forma responsável. O projeto tem como finalidade entender como as ameaças operam, quais dados elas capturam ou criptografam. Como se proteger qual técnica de detecção e mitigação são eficaz para o mundo real.
 
 
 ---
@@ -35,7 +35,7 @@ O script foi produzido e testado em ambiente seguro e controlado. O uso indevido
 ---
 # Desafio 
 
- ⚠️ **atenção**: simulação de ransomware aqui apresentada tem propósito pedagógico: entendimento, detecção e mitigação. Qualquer reprodução de técnicas em sistemas sem autorização constitui crime. Este repositório não fornece ferramentas para ataque.
+ ⚠️ **atenção**: simulação de ransomware aqui apresentada tem propósito pedagógico, entendimento, detecção e mitigação. Qualquer reprodução de técnicas em sistemas sem autorização constitui crime. Este repositório não fornece ferramentas para ataque.
 
 
 # Ransomware
@@ -108,7 +108,11 @@ import os`
 ---
 
 
-# Agora com nosso script para criptografar feito precisamos fazer o script para descriptografar.
+
+# Agora com nosso script para criptografar feito precisamos fazer o script para descriptografar
+
+
+
 
 ---
 
@@ -322,7 +326,7 @@ SENHA = "XXX XXX XXX XXXX"`
 
 # Resultado
 
-Assim que o usuário recebe o malware sem saber do que se trata e for executado ele começa a captura e registra as teclas digitadas ( executando ) A partir de agora o Malware captura e registra as teclas digitadas pelo usuario conversas senhas etc...
+Assim que o usuário recebe o malware sem saber do que se trata e ele é executado começa a captura e registra as teclas digitadas ( executando... ) A partir de agora o Malware captura e registra as teclas digitadas pelo usuario conversas senhas etc...
 
 
 <img width="850" height="498" alt="image" src="https://github.com/user-attachments/assets/7c72ee98-d3bf-447f-b657-9f580e43aa53" />
