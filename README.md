@@ -3,7 +3,7 @@
 
 ## ⚡ Criado por Dan54317
 **Autor / Contato:** [Dan54317](https://github.com/Dan54317)  
-📧 Email: [ddannsilvasp@gmail.com](mailto:seu.email@exemplo.com) · il) 
+📧 Email: [ddannsilvasp@gmail.com](mailto:seu.email@exemplo.com) 
 
 ---
 [![Criado por Dan54317](https://img.shields.io/badge/Cria%C3%A7%C3%A3o-Dan54317-blue?style=for-the-badge)](https://github.com/Dan54317)
@@ -209,8 +209,7 @@ Ransomware  funcionando podemos demonstrar como o malware funciona e sequestra o
 
 **Dan54317** — Autor e responsável pelo repositório.  
 - GitHub: [github.com/Dan54317](https://github.com/Dan54317)  
-- Email: [seu.email@exemplo.com](mailto:seu.email@exemplo.com)  
-- LinkedIn: https://www.linkedin.com/in/seu-perfil  
+- Email:  
 - WhatsApp: https://wa.me/55SEUNUMERO?text=Ol%C3%A1%2C%20vi%20seu%20reposit%C3%B3rio
 
 
