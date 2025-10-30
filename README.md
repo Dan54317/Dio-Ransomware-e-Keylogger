@@ -32,10 +32,12 @@ O script foi produzido e testado em ambiente seguro e controlado. O uso indevido
 ---
 # Desafio 
 
-> simulação de ransomware aqui apresentada tem propósito pedagógico: entendimento, detecção e mitigação. Qualquer reprodução de técnicas em sistemas sem autorização constitui crime. Este repositório não fornece ferramentas para ataque.
+ ⚠️ **atenção**: simulação de ransomware aqui apresentada tem propósito pedagógico: entendimento, detecção e mitigação. Qualquer reprodução de técnicas em sistemas sem autorização constitui crime. Este repositório não fornece ferramentas para ataque.
 
 
 # Ransomware
+
+> Ransomware é um tipo de malware que sequestra dados do usuário, criptografando arquivos e impedindo o acesso a eles. Após a infecção, o criminoso exige um resgate (geralmente em criptomoedas) para liberar a chave de descriptografia. Esse tipo de ataque pode afetar tanto usuários comuns quanto empresas, causando grandes prejuízos financeiros e operacionais.
 
 ## Incluir a bilblioteca
 
@@ -228,7 +230,9 @@ Ransomware em execução dados criptografados e a mensagem de Resgate com os pas
 
 🛡️ EDR/XDR > Use soluções de detecção e resposta em endpoints (além do antivírus) 
 Foco em prevenção + detecção + resposta = defesa completa! 🔒
+---
 
+# Kelylogger
 
 ## Autor / Contato
 
