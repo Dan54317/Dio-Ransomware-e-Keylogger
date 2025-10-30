@@ -206,12 +206,10 @@ Ransomware em execução dados criptografados e a mensagem de Resgate com os pas
     Ap�s o pagamento, envie um e-mail para [SEU EMAIL] com o comprovante.
     Voc� receber� a chave de descriptografia em at� 24 horas.`⁹
 
-    ![Uploading image.png…]()
+
+<img width="950" height="490" alt="image" src="https://github.com/user-attachments/assets/e8b3ef95-cbc9-4d33-bea9-65074bcb08f9" />
 
 ---
-
-
-
 
 ## Autor / Contato
 
